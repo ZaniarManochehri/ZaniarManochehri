@@ -8,7 +8,7 @@
 
 <p align="center">
  <a href="https://www.linkedin.com/in/zaniar-manochehri" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:8px"></a>
- <a href="https://twitter.com/Z_Manochehri" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" alt="Python" height="40" style="vertical-align:top; margin:8px"></a>
+ <a href="https://twitter.com/Z_Manochehri" target="_blank" rel="noopener noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2mYfOW0fexyoxS8P1RFBOBLFbOQuD-_CeyGyr3aHBGQ&s" alt="twi" height="40" style="vertical-align:top; margin:8px"></a>
  <a href="https://www.facebook.com/zaniar.manochehri"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="facebook" height="40" style="vertical-align:top; margin:8px"></a>
 </p>
 
